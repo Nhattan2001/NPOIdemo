@@ -1,0 +1,25 @@
+C:\Users\tmphat\Documents\Visual Studio 2017\Projects\ExcelReadWrite\ExcelReadWrite\bin\Debug\ExcelReadWrite.exe.config
+C:\Users\tmphat\Documents\Visual Studio 2017\Projects\ExcelReadWrite\ExcelReadWrite\bin\Debug\ExcelReadWrite.exe
+C:\Users\tmphat\Documents\Visual Studio 2017\Projects\ExcelReadWrite\ExcelReadWrite\bin\Debug\ExcelReadWrite.pdb
+C:\Users\tmphat\Documents\Visual Studio 2017\Projects\ExcelReadWrite\ExcelReadWrite\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\tmphat\Documents\Visual Studio 2017\Projects\ExcelReadWrite\ExcelReadWrite\bin\Debug\NPOI.dll
+C:\Users\tmphat\Documents\Visual Studio 2017\Projects\ExcelReadWrite\ExcelReadWrite\bin\Debug\NPOI.OOXML.dll
+C:\Users\tmphat\Documents\Visual Studio 2017\Projects\ExcelReadWrite\ExcelReadWrite\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\tmphat\Documents\Visual Studio 2017\Projects\ExcelReadWrite\ExcelReadWrite\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\tmphat\Documents\Visual Studio 2017\Projects\ExcelReadWrite\ExcelReadWrite\bin\Debug\NPOI.xml
+C:\Users\tmphat\Documents\Visual Studio 2017\Projects\ExcelReadWrite\ExcelReadWrite\obj\Debug\ExcelReadWrite.csproj.CoreCompileInputs.cache
+C:\Users\tmphat\Documents\Visual Studio 2017\Projects\ExcelReadWrite\ExcelReadWrite\obj\Debug\ExcelReadWrite.exe
+C:\Users\tmphat\Documents\Visual Studio 2017\Projects\ExcelReadWrite\ExcelReadWrite\obj\Debug\ExcelReadWrite.pdb
+C:\Users\ACER\Downloads\NPOI_EXCEL\ExcelReadWrite\ExcelReadWrite\bin\Debug\ExcelReadWrite.exe.config
+C:\Users\ACER\Downloads\NPOI_EXCEL\ExcelReadWrite\ExcelReadWrite\bin\Debug\ExcelReadWrite.exe
+C:\Users\ACER\Downloads\NPOI_EXCEL\ExcelReadWrite\ExcelReadWrite\bin\Debug\ExcelReadWrite.pdb
+C:\Users\ACER\Downloads\NPOI_EXCEL\ExcelReadWrite\ExcelReadWrite\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\ACER\Downloads\NPOI_EXCEL\ExcelReadWrite\ExcelReadWrite\bin\Debug\NPOI.dll
+C:\Users\ACER\Downloads\NPOI_EXCEL\ExcelReadWrite\ExcelReadWrite\bin\Debug\NPOI.OOXML.dll
+C:\Users\ACER\Downloads\NPOI_EXCEL\ExcelReadWrite\ExcelReadWrite\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\ACER\Downloads\NPOI_EXCEL\ExcelReadWrite\ExcelReadWrite\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\ACER\Downloads\NPOI_EXCEL\ExcelReadWrite\ExcelReadWrite\bin\Debug\NPOI.xml
+C:\Users\ACER\Downloads\NPOI_EXCEL\ExcelReadWrite\ExcelReadWrite\obj\Debug\ExcelReadWrite.csprojAssemblyReference.cache
+C:\Users\ACER\Downloads\NPOI_EXCEL\ExcelReadWrite\ExcelReadWrite\obj\Debug\ExcelReadWrite.csproj.CopyComplete
+C:\Users\ACER\Downloads\NPOI_EXCEL\ExcelReadWrite\ExcelReadWrite\obj\Debug\ExcelReadWrite.exe
+C:\Users\ACER\Downloads\NPOI_EXCEL\ExcelReadWrite\ExcelReadWrite\obj\Debug\ExcelReadWrite.pdb
